@@ -91,14 +91,16 @@ Publicação e configuração de aplicações em ambientes de produção.
 
 ---
 
+
 ## 📊 GitHub
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=JhonatanSr18&show_icons=true&locale=pt-br&hide_border=true&theme=transparent" />
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSr18&layout=compact&locale=pt-br&hide_border=true&theme=transparent" />
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JhonatanSr18&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSr18&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
 
 ---
 
@@ -117,7 +119,7 @@ Publicação e configuração de aplicações em ambientes de produção.
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:"jhonatansr990@gmail.com">
+  <a href="mailto:jhonatansr990@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
