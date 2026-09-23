@@ -94,13 +94,18 @@ Publicação e configuração de aplicações em ambientes de produção.
 
 ## 📊 GitHub
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JhonatanSr18&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSr18&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=JhonatanSr18&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSr18&layout=compact&theme=github_dark&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
 
 ---
 
