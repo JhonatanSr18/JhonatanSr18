@@ -107,7 +107,7 @@ Publicação e configuração de aplicações em ambientes de produção.
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JhonatanSr18/JhonatanSr18/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/JhonatanSr18/JhonatanSr18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
